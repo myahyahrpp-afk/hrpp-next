@@ -161,15 +161,15 @@ export default async function Page({
       </p>
   
       <p className="mt-2">
-        <span className="font-medium">Facebook Page:</span>
+        <span className="font-medium">Continuous Individual Job Ads  → HRPP 2.0 WAC:</span>
         <br />
         <a
-          href="https://www.facebook.com/profile.php?id=100087877179793"
+          href="https://whatsapp.com/channel/0029VbAxrB572WTxgZBSbp1I"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-600 underline hover:text-blue-800 break-all"
         >
-          https://www.facebook.com/profile.php?id=100087877179793
+          https://whatsapp.com/channel/0029VbAxrB572WTxgZBSbp1I
         </a>
       </p>
   
